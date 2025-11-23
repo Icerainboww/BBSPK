@@ -995,10 +995,10 @@ const db_forums = [
     },
     {
         title: "MCBBS 4th",
-        url: "https://www.cdk.my",
+        url: "https://www.782778.xyz/",
         state: "up",
         createdAt: "2024/04/06",
-        updatedAt: "2025/06/21",
+        updatedAt: "2025/11/23",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
