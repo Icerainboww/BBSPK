@@ -1167,7 +1167,7 @@ const db_forums = [
     {
         title: "Cat BBS",
         url: "https://bbs.catscavern.com/",
-        state: "up",
+        state: "down",
         createdAt: "2024/09/19",
         updatedAt: "2024/11/30",
         hasICP: "no",
