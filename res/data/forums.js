@@ -1154,11 +1154,11 @@ const db_forums = [
         reference: []
     },
     {
-        title: "Nukkit中文论坛",
-        url: "https://bbs.nukkit.cc/",
+        title: "Nukkit-MOT BBS",
+        url: "https://bbs.nukkit-mot.com/",
         state: "up",
         createdAt: "2024/08/28",
-        updatedAt: "2025/01/26",
+        updatedAt: "2026/01/10",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
