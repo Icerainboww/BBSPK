@@ -90,9 +90,9 @@ const db_forums = [
     {
         title: "小黑资源论坛",
         url: "https://www.blmcpia.com",
-        state: "up",
+        state: "down",
         createdAt: "2019/10/04",
-        updatedAt: "2024/04/20",
+        updatedAt: "2026/01/10",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。主营基岩版。",
