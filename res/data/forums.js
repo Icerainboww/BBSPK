@@ -1169,7 +1169,7 @@ const db_forums = [
         url: "https://bbs.catscavern.com/",
         state: "down",
         createdAt: "2024/09/19",
-        updatedAt: "2024/11/30",
+        updatedAt: "2026/01/10",
         hasICP: "no",
         hasNetSec: "no",
         note: "非大陆服务器。",
@@ -1227,7 +1227,7 @@ const db_forums = [
     {
         title: "北凯MC论坛",
         url: "https://bbs.stbeikai.com",
-        state: "up",
+        state: "down",
         createdAt: "2024/12/28",
         updatedAt: "2025/03/02",
         hasICP: "yes",
