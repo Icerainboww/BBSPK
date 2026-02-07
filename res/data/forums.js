@@ -951,7 +951,7 @@ const db_forums = [
     {
         title: "史莱姆社区",
         url: "https://www.slmsns.com",
-        state: "up",
+        state: "failure",
         createdAt: "2024/03/23",
         updatedAt: "2024/05/17",
         hasICP: "yes",
