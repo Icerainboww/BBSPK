@@ -953,7 +953,7 @@ const db_forums = [
         url: "https://www.slmsns.com",
         state: "failure",
         createdAt: "2024/03/23",
-        updatedAt: "2024/05/17",
+        updatedAt: "2026/02/07",
         hasICP: "yes",
         hasNetSec: "yes",
         note: "",
